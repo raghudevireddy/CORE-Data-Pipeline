@@ -1,0 +1,14 @@
+# Python
+__pycache__/
+*.py[cod]
+.env
+
+# Databricks
+.databricks/
+*.dbc
+
+# Data (Never commit raw data to GitHub!)
+data/
+*.csv
+*.json
+*.parquet
